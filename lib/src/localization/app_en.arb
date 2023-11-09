@@ -2,5 +2,9 @@
   "appTitle": "limetables",
   "@appTitle": {
     "description": "The title of the application"
+  },
+  "appVersion": "0.0.1",
+  "@appVersion": {
+    "description": "The version of the application"
   }
 }

@@ -1,4 +1,4 @@
-package com.example.limetables
+package com.lojcs.limetables
 
 import io.flutter.embedding.android.FlutterActivity
 
